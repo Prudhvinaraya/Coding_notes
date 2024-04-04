@@ -3,7 +3,8 @@ class Selection_sort {
         int[] arr = { 1, 4, 3, 2 };
         int n = arr.length;
         // selection sort
-        for (int i = 0; i < n; i++) {
+        for (int i = 0; i < n; i++) 
+        {
             int min = i;
             for (int j = i + 1; j < n; j++) {
                 if (arr[j] < arr[min]) {
