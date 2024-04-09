@@ -1,8 +1,8 @@
-We can remove the elements with any conditons in an array in two ways
-  1)traversing from 0th index and checking conditon and removing specific elements 
-  2)traversign from len-1 index and checking conditon and removing specific elements
-Here 2nd approach is good than 1st because there is no need to moving the arraylist elements in 2nd case
-The below code shows the ArrayList and removing of Even numbers from ArrayList
+// We can remove the elements with any conditons in an array in two ways
+//   1)traversing from 0th index and checking conditon and removing specific elements 
+//   2)traversign from len-1 index and checking conditon and removing specific elements
+// Here 2nd approach is good than 1st because there is no need to moving the arraylist elements in 2nd case
+// The below code shows the ArrayList and removing of Even numbers from ArrayList
 import java.util.*;
 
 public class Array_list_remove_Even {
