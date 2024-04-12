@@ -16,7 +16,6 @@
 
 // here is the code that demonstrates the operations that can be done on a ArrayList
 import java.util.*;
-
 class Array_List_operations {
     public static void main(String[] args) {
         // Define an ArrayList of integers
